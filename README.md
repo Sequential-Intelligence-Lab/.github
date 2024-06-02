@@ -1,1 +1,2 @@
-# .github
+# Sequential Intelligence Lab
+
